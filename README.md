@@ -1,8 +1,8 @@
 - 👋 Hi, I’m  David Gimenez Plaza
 - 👀 I’m interested in ... programacion web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... java Script, css, htmls5 , squl, php, git
+- 💞️ I’m looking to collaborate on ...proyects de desarroyo we web
+- 📫 How to reach me ... dagipa@hotmail.es
 
 <!---
 cvdgp/cvdgp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
